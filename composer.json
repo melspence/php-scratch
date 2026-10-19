@@ -1,0 +1,17 @@
+{
+    "name": "mel/php-scratch",
+    "description": "PHP Scratch project",
+    "type": "project",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mel Spence"
+        }
+    ],
+    "require": {}
+}
